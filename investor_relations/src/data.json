@@ -1,0 +1,34 @@
+{
+    "d":[
+       {
+          "__metadata":{
+             "id":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(6)",
+             "uri":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(6)",
+             "type":"SNL.SNLWebX.IRWebAPI.Common.Models.FAQ.FAQData"
+          },
+          "Id":6,
+          "FaqQuestion":"Who is the stock transfer agent?\r\n",
+          "FaqAnswer":"Zions Bank Corporate Trust Department, One South Main Street, 12th Floor, Salt Lake City, Utah 84133-1109. You may contact the transfer agent via email at \r\nzionsctops@zionsbank.com or phone at (888) 415-5176."
+       },
+       {
+          "__metadata":{
+             "id":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(1)",
+             "uri":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(1)",
+             "type":"SNL.SNLWebX.IRWebAPI.Common.Models.FAQ.FAQData"
+          },
+          "Id":1,
+          "FaqQuestion":"Does Zions have a dividend reinvestment plan?\r\n",
+          "FaqAnswer":"Yes. A prospectus may be obtained by writing to: Zions Bancorporation, Dividend Reinvestment Plan, P.O. Box 30880, Salt Lake City, UT 84130. You may contact the Plan directly by email at <a href=\"mailto:ZionsCTOps@zionsbank.com\">ZionsCTOps@zionsbank.com</a>.\n\n\n\n"
+       },
+       {
+          "__metadata":{
+             "id":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(7)",
+             "uri":"https://dmzirtest/IRWebAPI/V1/FAQ/FAQData(7)",
+             "type":"SNL.SNLWebX.IRWebAPI.Common.Models.FAQ.FAQData"
+          },
+          "Id":7,
+          "FaqQuestion":"When was the company founded?\r\n",
+          "FaqAnswer":"Zions Savings Bank was founded in 1873 in Salt Lake City (then the capital of the Territory of Utah).\r\n\r\n"
+       }
+    ]
+ }

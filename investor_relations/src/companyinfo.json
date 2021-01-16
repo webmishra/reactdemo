@@ -1,0 +1,12 @@
+{
+    "d": {
+      "GetCompanyInfo": {
+        "__metadata": {
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.CompanyInfo"
+        },
+        "KeyInstn": 100255,
+        "CompanyDescription": "<div className=\"arrow\">Unum Group is a leading provider of financial protection benefits in the United States, the United Kingdom and Poland, and the largest provider of disability income in the world. Its primary businesses are Unum US, Colonial Life and Unum International, as well as a closed block of products that are still serviced, but not actively marketed.<\/div><br \/><div class=\"arrow\">Unum’s portfolio includes disability, life, accident, critical illness, cancer, dental and vision coverage, which help protect millions of working people and their families in the event of an illness or injury. In 2018, the company reported record total revenue of $11.6 billion and claims paid of $7.2 billion.<br \/><br \/><\/div>",
+        "SuppressIRHomePageGraph": true
+      }
+    }
+ }

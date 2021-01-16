@@ -1,0 +1,366 @@
+{
+  "d": {
+    "GetMenu": {
+      "__metadata": {
+        "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.Menu"
+      },
+      "Sections": {
+        "__metadata": {
+          "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.Section)"
+        },
+        "results": [
+          {
+            "Parent": {
+              "__metadata": {
+                "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem"
+              },
+              "Key": 56419,
+              "KeyPage": 417280,
+              "Description": "Financials",
+              "Href": "/QuarterlyResults/103324",
+              "Target": "_self",
+              "FormOrder": 1,
+              "SNLGeneratedPage": true,
+              "IsActive": false
+            },
+            "MenuItems": {
+              "__metadata": {
+                "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem)"
+              },
+              "results": [
+                {
+                  "Key": 32073,
+                  "KeyPage": 302,
+                  "Description": "Financial Information",
+                  "Href": "/QuarterlyResults/103324",
+                  "Target": "_self",
+                  "FormOrder": 3,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32043,
+                  "KeyPage": 176,
+                  "Description": "SEC Filings",
+                  "Href": "/Docs/103324",
+                  "Target": "_self",
+                  "FormOrder": 4,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 56535,
+                  "KeyPage": 419595,
+                  "Description": "Statutory Filings",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=419595",
+                  "Target": "_self",
+                  "FormOrder": 5,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32042,
+                  "KeyPage": 300,
+                  "Description": "Annual Reports",
+                  "Href": "/FinancialDocs/103324",
+                  "Target": "_self",
+                  "FormOrder": 6,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32187,
+                  "KeyPage": 205418,
+                  "Description": "Proxy Materials",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=205418",
+                  "Target": "_self",
+                  "FormOrder": 7,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32064,
+                  "KeyPage": 245,
+                  "Description": "Credit Ratings",
+                  "Href": "/CreditRatings/103324",
+                  "Target": "_self",
+                  "FormOrder": 8,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                }
+              ]
+            }
+          },
+          {
+            "Parent": {
+              "__metadata": {
+                "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem"
+              },
+              "Key": 56420,
+              "KeyPage": 417281,
+              "Description": "Stock",
+              "Href": "/Stock/103324",
+              "Target": "_self",
+              "FormOrder": 9,
+              "SNLGeneratedPage": true,
+              "IsActive": false
+            },
+            "MenuItems": {
+              "__metadata": {
+                "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem)"
+              },
+              "results": [
+                {
+                  "Key": 32033,
+                  "KeyPage": 184,
+                  "Description": "Stock Quote",
+                  "Href": "/Stock/103324",
+                  "Target": "_self",
+                  "FormOrder": 10,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32034,
+                  "KeyPage": 301,
+                  "Description": "Historical Prices",
+                  "Href": "/historicprices/103324",
+                  "Target": "_self",
+                  "FormOrder": 11,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32035,
+                  "KeyPage": 174,
+                  "Description": "Dividends & Splits",
+                  "Href": "/Dividend/103324",
+                  "Target": "_self",
+                  "FormOrder": 12,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32039,
+                  "KeyPage": 201657,
+                  "Description": "Institutional Ownership",
+                  "Href": "/InstitutionalOwnership/103324",
+                  "Target": "_self",
+                  "FormOrder": 13,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32181,
+                  "KeyPage": 205412,
+                  "Description": "Analyst Coverage",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=205412",
+                  "Target": "_self",
+                  "FormOrder": 14,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                }
+              ]
+            }
+          },
+          {
+            "Parent": {
+              "__metadata": {
+                "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem"
+              },
+              "Key": 56421,
+              "KeyPage": 417283,
+              "Description": "Governance",
+              "Href": "/CustomPage/103324/Index?KeyGenPage=417283",
+              "Target": "_self",
+              "FormOrder": 15,
+              "SNLGeneratedPage": true,
+              "IsActive": false
+            },
+            "MenuItems": {
+              "__metadata": {
+                "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem)"
+              },
+              "results": [
+                {
+                  "Key": 56534,
+                  "KeyPage": 419594,
+                  "Description": "Corporate Governance",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=419594",
+                  "Target": "_self",
+                  "FormOrder": 16,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32186,
+                  "KeyPage": 205416,
+                  "Description": "Governance Documents",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=205416",
+                  "Target": "_self",
+                  "FormOrder": 17,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32020,
+                  "KeyPage": 186,
+                  "Description": "Board of Directors and Executive Officers",
+                  "Href": "/OD/103324",
+                  "Target": "_self",
+                  "FormOrder": 18,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32016,
+                  "KeyPage": 100107,
+                  "Description": "Board Committees",
+                  "Href": "/CommitteeChart/103324",
+                  "Target": "_self",
+                  "FormOrder": 19,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32193,
+                  "KeyPage": 205423,
+                  "Description": "Risk Management",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=205423",
+                  "Target": "_self",
+                  "FormOrder": 20,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 1000034877,
+                  "KeyPage": 1073748699,
+                  "Description": "Corporate Overview",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=1073748699",
+                  "Target": "_self",
+                  "FormOrder": 21,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                }
+              ]
+            }
+          },
+          {
+            "Parent": {
+              "__metadata": {
+                "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem"
+              },
+              "Key": 56422,
+              "KeyPage": 417285,
+              "Description": "Resources",
+              "Href": "/inforequest/103324",
+              "Target": "_self",
+              "FormOrder": 22,
+              "SNLGeneratedPage": true,
+              "IsActive": false
+            },
+            "MenuItems": {
+              "__metadata": {
+                "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem)"
+              },
+              "results": [
+                {
+                  "Key": 32070,
+                  "KeyPage": 197,
+                  "Description": "Information Request",
+                  "Href": "/inforequest/103324",
+                  "Target": "_self",
+                  "FormOrder": 23,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32072,
+                  "KeyPage": 193,
+                  "Description": "Email Notification",
+                  "Href": "/EmailNotification/103324",
+                  "Target": "_self",
+                  "FormOrder": 24,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 56533,
+                  "KeyPage": 419593,
+                  "Description": "RSS Feeds",
+                  "Href": "/CustomPage/103324/Index?KeyGenPage=419593",
+                  "Target": "_self",
+                  "FormOrder": 25,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32066,
+                  "KeyPage": 311,
+                  "Description": "IR Site Menu",
+                  "Href": "/SiteMap/103324",
+                  "Target": "_self",
+                  "FormOrder": 26,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                }
+              ]
+            }
+          },
+          {
+            "Parent": {
+              "__metadata": {
+                "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem"
+              },
+              "Key": 56526,
+              "KeyPage": 419373,
+              "Description": "News & Events",
+              "Href": "/News/103324",
+              "Target": "_self",
+              "FormOrder": 27,
+              "SNLGeneratedPage": true,
+              "IsActive": false
+            },
+            "MenuItems": {
+              "__metadata": {
+                "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CorporateProfile.MenuItem)"
+              },
+              "results": [
+                {
+                  "Key": 32060,
+                  "KeyPage": 175,
+                  "Description": "News",
+                  "Href": "/News/103324",
+                  "Target": "_self",
+                  "FormOrder": 28,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32063,
+                  "KeyPage": 192,
+                  "Description": "Event Calendar",
+                  "Href": "/event/103324",
+                  "Target": "_self",
+                  "FormOrder": 29,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                },
+                {
+                  "Key": 32059,
+                  "KeyPage": 209,
+                  "Description": "Presentations",
+                  "Href": "/Presentations/103324",
+                  "Target": "_self",
+                  "FormOrder": 30,
+                  "SNLGeneratedPage": true,
+                  "IsActive": false
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }
+}

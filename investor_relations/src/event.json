@@ -1,0 +1,3280 @@
+{
+  "d": {
+    "results": [
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-02-24T00%3A00%3A00',EventKey=90493)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-02-24T00%3A00%3A00',EventKey=90493)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "MWC Barcelona 2020",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2020-02-24T00:00:00",
+        "CompanyCalendarYear": null,
+        "CompanyCalendarDateEnd": "2020-02-27T00:00:00",
+        "CompanyCalendarDateET": "2020-02-24T00:00:00",
+        "CompanyCalendarDateEndET": "2020-02-27T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 90493,
+        "EventType": 0,
+        "IsPastEvent": false,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Bacelona",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "MWC Barcelona 2020",
+          "ConferenceBegins": "2/24/2020",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "2/27/2020",
+          "ConferenceKey": "90493",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "http://www.mwcbarcelona.com/conference-programmes/",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1613776897",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "GSM Association",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2020-02-24T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-29T00%3A00%3A00',EventKey=3853385)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-29T00%3A00%3A00',EventKey=3853385)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q4 Earnings Conference Call",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2020-01-29T00:00:00",
+        "CompanyCalendarYear": null,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2020-01-29T00:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Conference Call",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 3853385,
+        "EventType": 1,
+        "IsPastEvent": false,
+        "Detail": null,
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": null,
+          "YearAgoActual": null,
+          "ConsensusEstimate": null,
+          "CurrentReported": null,
+          "OverUnder": null
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2020-01-29T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-29T00%3A00%3A00',EventKey=1603758)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-29T00%3A00%3A00',EventKey=1603758)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q4 Earnings Release",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2020-01-29T00:00:00",
+        "CompanyCalendarYear": null,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2020-01-29T00:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Earnings Release",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1603758,
+        "EventType": 2,
+        "IsPastEvent": false,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2019-12-31T00:00:00",
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "4024242",
+          "Email": "",
+          "ExpectedEarningsRelease": "1/29/2020",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": 4024242,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "0",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Q4 Earnings Release",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": "EPS ($) Q4",
+          "YearAgoActual": null,
+          "ConsensusEstimate": 0.86,
+          "CurrentReported": null,
+          "OverUnder": null
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2020-01-29T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-06T00%3A00%3A00',EventKey=86499)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2020-01-06T00%3A00%3A00',EventKey=86499)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "CES 2020",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2020-01-06T00:00:00",
+        "CompanyCalendarYear": null,
+        "CompanyCalendarDateEnd": "2020-01-10T00:00:00",
+        "CompanyCalendarDateET": "2020-01-06T00:00:00",
+        "CompanyCalendarDateEndET": "2020-01-10T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 86499,
+        "EventType": 0,
+        "IsPastEvent": false,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Las Vegas",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "CES 2020",
+          "ConferenceBegins": "1/6/2020",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "1/10/2020",
+          "ConferenceKey": "86499",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://www.ces.tech/Conference/Conference-Program.aspx",
+          "ConferenceVenue": "Venetian’s Palazzo Ballroom ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "11010",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1614399745",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Consumer Technology Associatio",
+          "State": "NV",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2020-01-06T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752068)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752068)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Earnings Release: First Quarter",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-12-12T10:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-13T13:00:00",
+        "CompanyCalendarDateET": "2019-12-12T10:00:00",
+        "CompanyCalendarDateEndET": "2019-12-13T13:00:00",
+        "CompanyCalendarEvent": "Ashley Test Event <p>Paragraph</p>",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073752068,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-12T10:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752069)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752069)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Earnings Release: Second Quarter2",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-12-12T10:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-13T13:00:00",
+        "CompanyCalendarDateET": "2019-12-12T10:00:00",
+        "CompanyCalendarDateEndET": "2019-12-13T13:00:00",
+        "CompanyCalendarEvent": "Ashley Test Event 2 <p>Paragraph</p> Edited type after initial add",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073752069,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-12T10:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752070)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752070)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Shareholders Meeting",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-12-12T10:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-13T13:00:00",
+        "CompanyCalendarDateET": "2019-12-12T10:00:00",
+        "CompanyCalendarDateEndET": "2019-12-13T13:00:00",
+        "CompanyCalendarEvent": "Different event type, shareholder meeting, no quarter option",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073752070,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-12T10:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752071)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752071)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Dividend Announcement",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-12-12T10:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-13T13:00:00",
+        "CompanyCalendarDateET": "2019-12-12T10:00:00",
+        "CompanyCalendarDateEndET": "2019-12-13T13:00:00",
+        "CompanyCalendarEvent": "\"Manual event using new event type \"Dividend",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073752071,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-12T10:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752072)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-12T10%3A00%3A00',EventKey=1073752072)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Ashley Custom Event Title",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-12-12T10:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-13T13:00:00",
+        "CompanyCalendarDateET": "2019-12-12T10:00:00",
+        "CompanyCalendarDateEndET": "2019-12-13T13:00:00",
+        "CompanyCalendarEvent": "\"Using \"Other",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073752072,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-12T10:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-09T00%3A00%3A00',EventKey=92259)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-09T00%3A00%3A00',EventKey=92259)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "2nd Annual Future of Video Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-12-09T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-11T00:00:00",
+        "CompanyCalendarDateET": "2019-12-09T00:00:00",
+        "CompanyCalendarDateEndET": "2019-12-11T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 92259,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Marina Del Rey",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "2nd Annual Future of Video Conference",
+          "ConferenceBegins": "12/9/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "12/11/2019",
+          "ConferenceKey": "92259",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "The Marina del Rey Marriott ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "1139",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1074806784",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Parks Associates, Inc.",
+          "State": "CA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-09T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-09T00%3A00%3A00',EventKey=77223)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-09T00%3A00%3A00',EventKey=77223)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "UBS Global Technology, Media & Telecom Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-12-09T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-12T00:00:00",
+        "CompanyCalendarDateET": "2019-12-09T00:00:00",
+        "CompanyCalendarDateEndET": "2019-12-12T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 77223,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "New York",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "UBS Global Technology, Media & Telecom Conference",
+          "ConferenceBegins": "12/9/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "12/12/2019",
+          "ConferenceKey": "77223",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://www.ubs.com/microsites/ib-conferences/americas/pci-global-tmt-conference/en/overview.html",
+          "ConferenceVenue": "New York Hilton Midtown 1335 Avenue of Americas",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "11574",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1613809728",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "UBS Investment Bank",
+          "State": "NY",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-09T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-02T00%3A00%3A00',EventKey=86723)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-12-02T00%3A00%3A00',EventKey=86723)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "2019 Wells Fargo Tech Summit",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-12-02T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-12-04T00:00:00",
+        "CompanyCalendarDateET": "2019-12-02T00:00:00",
+        "CompanyCalendarDateEndET": "2019-12-04T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 86723,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Las Vegas",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "2019 Wells Fargo Tech Summit",
+          "ConferenceBegins": "12/2/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "12/4/2019",
+          "ConferenceKey": "86723",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://email.wellsfargosecurities.com/tmt-summit-2019",
+          "ConferenceVenue": "The Cosmopolitan 3708 Las Vegas Blvd. South",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "11010",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1076937792",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Wells Fargo Securities LLC",
+          "State": "NV",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-12-02T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-17T00%3A00%3A00',EventKey=90797)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-17T00%3A00%3A00',EventKey=90797)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "New Metrics '19",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-11-17T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-11-20T00:00:00",
+        "CompanyCalendarDateET": "2019-11-17T00:00:00",
+        "CompanyCalendarDateEndET": "2019-11-20T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 90797,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Philadelphia",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "New Metrics '19",
+          "ConferenceBegins": "11/17/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "11/20/2019",
+          "ConferenceKey": "90797",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://events.sustainablebrands.com/newmetrics19/",
+          "ConferenceVenue": "Loews Philadelphia Hotel Center City",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "13875",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1747503138",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Sustainable Life Media Inc.",
+          "State": "PA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-11-17T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-13T00%3A00%3A00',EventKey=90010)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-13T00%3A00%3A00',EventKey=90010)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "In-Memory Computing Summit North America",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-11-13T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-11-14T00:00:00",
+        "CompanyCalendarDateET": "2019-11-13T00:00:00",
+        "CompanyCalendarDateEndET": "2019-11-14T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 90010,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "San Francisco",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "In-Memory Computing Summit North America",
+          "ConferenceBegins": "11/13/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "11/14/2019",
+          "ConferenceKey": "90010",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://imcsummit.org/us/",
+          "ConferenceVenue": "Hyatt Regency San Francisco Airport ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "1316",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1075855360",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "GridGain Systems Inc.",
+          "State": "CA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-11-13T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-13T00%3A00%3A00',EventKey=80944)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-11-13T00%3A00%3A00',EventKey=80944)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Morgan Stanley European Technology, Media & Telecom Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-11-13T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-11-15T00:00:00",
+        "CompanyCalendarDateET": "2019-11-13T00:00:00",
+        "CompanyCalendarDateEndET": "2019-11-15T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 80944,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Barcelona",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "Morgan Stanley European Technology, Media & Telecom Conference",
+          "ConferenceBegins": "11/13/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "11/15/2019",
+          "ConferenceKey": "80944",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Arts Hotel ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "18636",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1074839616",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Morgan Stanley",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-11-13T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-29T12%3A00%3A00',EventKey=3812101)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-29T12%3A00%3A00',EventKey=3812101)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Analyst/Investor Meeting",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-10-29T12:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-10-29T18:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Company Meeting",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 3812101,
+        "EventType": 3,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "4024242",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "10/29/2019 12:00 PM HAT ",
+          "ConferenceCallDateUTC": "2019-10-29T16:00:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "https://pressroom.warnermediagroup.com/us/warnermediaday-register",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "3",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Analyst/Investor Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-29T12:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-28T03%3A00%3A00',EventKey=1565398)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-28T03%3A00%3A00',EventKey=1565398)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q3 Earnings Release",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-10-28T03:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-10-28T09:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Earnings Release",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1565398,
+        "EventType": 2,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2019-09-30T00:00:00",
+          "EarningsReleased": "10/28/2019 12:00:00 AM",
+          "EarningsReleasesKey": "4024242",
+          "Email": "",
+          "ExpectedEarningsRelease": "10/28/2019",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "0",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": 4024242,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "0",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Q3 Earnings Release",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": "EPS ($) Q3",
+          "YearAgoActual": 0.65,
+          "ConsensusEstimate": 0.93,
+          "CurrentReported": 0.5,
+          "OverUnder": -0.43
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-28T03:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-28T02%3A30%3A00',EventKey=3732638)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-28T02%3A30%3A00',EventKey=3732638)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q3 Earnings Conference Call",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-10-28T02:30:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-10-28T08:30:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Conference Call",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 3732638,
+        "EventType": 1,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "10/28/2019 2:30 AM HAT ",
+          "ConferenceCallDateUTC": "2019-10-28T06:30:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "4024242",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "https://edge.media-server.com/mmc/p/ydg2u97f",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2019-09-30T00:00:00",
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "0",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Q3 Earnings Conference Call",
+          "KeyMappingShapes": "",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": "EPS ($) Q3",
+          "YearAgoActual": 0.65,
+          "ConsensusEstimate": 0.93,
+          "CurrentReported": 0.5,
+          "OverUnder": -0.43
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-28T02:30:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-22T00%3A00%3A00',EventKey=86178)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-22T00%3A00%3A00',EventKey=86178)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "MWC19 Los Angeles",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-10-22T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-10-24T00:00:00",
+        "CompanyCalendarDateET": "2019-10-22T00:00:00",
+        "CompanyCalendarDateEndET": "2019-10-24T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 86178,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Los Angeles",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "MWC19 Los Angeles",
+          "ConferenceBegins": "10/22/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "10/24/2019",
+          "ConferenceKey": "86178",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Los Angeles Convention Center 1201 South Figueroa St.",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "1122",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1076936704",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "GSM Association",
+          "State": "CA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-22T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-14T00%3A30%3A00',EventKey=22686)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-14T00%3A30%3A00',EventKey=22686)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Earnings Release: First Quarter",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-10-14T00:30:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-10-14T12:40:00",
+        "CompanyCalendarDateET": "2019-10-14T00:30:00",
+        "CompanyCalendarDateEndET": "2019-10-14T12:40:00",
+        "CompanyCalendarEvent": "Testing Event",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22686,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "100457",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "7/26/2006 5:00 AM HAT ",
+          "ConferenceCallDateUTC": "2006-07-26T09:00:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              "(800) 289-0507"
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "http://www.susquehanna.net",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2006-06-30T00:00:00",
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "0",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "1",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "1",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "Abram G. Koser",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Susquehanna Bancshares Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "SUSQ",
+          "ConfCallEventName": "Susquehanna Bancshares Inc., Annual Shareholder Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "Live Toll-Free",
+          "KeyConferenceCallNumberType": "0",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-14T00:30:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-13T00%3A00%3A00',EventKey=22685)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-10-13T00%3A00%3A00',EventKey=22685)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Shareholders Meeting",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-10-13T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-10-13T00:00:00",
+        "CompanyCalendarDateET": "2019-10-13T00:00:00",
+        "CompanyCalendarDateEndET": "2019-10-13T00:00:00",
+        "CompanyCalendarEvent": "This is Testing event",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22685,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "Oak Brook, IL",
+          "CompanyMeetingKey": "100277",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "8/1/2006 9:00 AM HAT ",
+          "ConferenceCallDateUTC": "2006-08-01T13:00:00",
+          "ConferenceCallDetails": "Adoption of the agreement and plan of merger by and among MB Financial, Inc., MBFI Acquisition Corp and First Oak Brook Bancshares, Inc.",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Company Headquarters",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": 126524,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "1",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "1",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "1",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "First Oak Brook Bancshares",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "First Oak Brook Bancshares, Merger Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-10-13T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-23T00%3A00%3A00',EventKey=87311)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-23T00%3A00%3A00',EventKey=87311)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Open Networking Summit Europe",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-09-23T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-09-25T00:00:00",
+        "CompanyCalendarDateET": "2019-09-23T00:00:00",
+        "CompanyCalendarDateEndET": "2019-09-25T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 87311,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Antwerp",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "Open Networking Summit Europe",
+          "ConferenceBegins": "9/23/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "9/25/2019",
+          "ConferenceKey": "87311",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://events.linuxfoundation.org/events/open-networking-summit-north-america-2019/",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "18628",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1075855360",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "The Linux Foundation",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-09-23T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-17T00%3A00%3A00',EventKey=84065)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-17T00%3A00%3A00',EventKey=84065)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Network Virtualization & SDN Americas",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-09-17T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-09-19T00:00:00",
+        "CompanyCalendarDateET": "2019-09-17T00:00:00",
+        "CompanyCalendarDateEndET": "2019-09-19T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 84065,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Dallas",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "Network Virtualization & SDN Americas",
+          "ConferenceBegins": "9/17/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "9/19/2019",
+          "ConferenceKey": "84065",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Dallas Marriott Las Colinas ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1075855360",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "KNect365 US Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-09-17T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-17T00%3A00%3A00',EventKey=84939)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-17T00%3A00%3A00',EventKey=84939)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "The Goldman Sachs 28th Annual Communacopia Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-09-17T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-09-19T00:00:00",
+        "CompanyCalendarDateET": "2019-09-17T00:00:00",
+        "CompanyCalendarDateEndET": "2019-09-19T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 84939,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "New York",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "The Goldman Sachs 28th Annual Communacopia Conference",
+          "ConferenceBegins": "9/17/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "9/19/2019",
+          "ConferenceKey": "84939",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "11574",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1613774913",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Goldman Sachs Group Inc.",
+          "State": "NY",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-09-17T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-11T00%3A00%3A00',EventKey=88073)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-09-11T00%3A00%3A00',EventKey=88073)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Bank of America Merrill Lynch 2019 Media, Communications & Entertainment Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-09-11T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-09-12T00:00:00",
+        "CompanyCalendarDateET": "2019-09-11T00:00:00",
+        "CompanyCalendarDateEndET": "2019-09-12T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 88073,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Los Angeles",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "Bank of America Merrill Lynch 2019 Media, Communications & Entertainment Conference",
+          "ConferenceBegins": "9/11/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "9/12/2019",
+          "ConferenceKey": "88073",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "The Beverly Wilshire ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "1122",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1065024",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Bank of America Corporation",
+          "State": "CA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-09-11T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-27T00%3A00%3A00',EventKey=85854)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-27T00%3A00%3A00',EventKey=85854)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "6th Annual Connected Health Summit",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-08-27T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-29T00:00:00",
+        "CompanyCalendarDateET": "2019-08-27T00:00:00",
+        "CompanyCalendarDateEndET": "2019-08-29T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 85854,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "San Diego",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "6th Annual Connected Health Summit",
+          "ConferenceBegins": "8/27/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "8/29/2019",
+          "ConferenceKey": "85854",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "http://www.parksassociates.com/events/connected-health/agenda",
+          "ConferenceVenue": "Pendry ",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "1313",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1073760512",
+          "PersonName": "",
+          "PhonePublished": "(972) 996-0214",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Parks Associates, Inc.",
+          "State": "CA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-27T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-24T00%3A00%3A00',EventKey=22480)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-24T00%3A00%3A00',EventKey=22480)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Earnings Release: Third Quarter",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-08-24T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-08-24T00:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Testing Event ",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22480,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-24T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T19%3A00%3A00',EventKey=22485)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T19%3A00%3A00',EventKey=22485)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "testing event2",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-21T19:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-21T19:30:00",
+        "CompanyCalendarDateET": "2019-08-21T19:00:00",
+        "CompanyCalendarDateEndET": "2019-08-21T19:30:00",
+        "CompanyCalendarEvent": "This is testing event",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22485,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-21T19:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T18%3A00%3A00',EventKey=22481)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T18%3A00%3A00',EventKey=22481)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Shareholders Meeting",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-21T18:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-21T18:30:00",
+        "CompanyCalendarDateET": "2019-08-21T18:00:00",
+        "CompanyCalendarDateEndET": "2019-08-21T18:30:00",
+        "CompanyCalendarEvent": "Testing Event 2",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22481,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "New York, NY",
+          "CompanyMeetingKey": "108462",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "16233630",
+          "ConferenceCallDate": "6/6/2006 2:30 AM HAT ",
+          "ConferenceCallDateUTC": "2006-06-06T06:30:00",
+          "ConferenceCallDetails": "Moody's Corp. will host its 2006 Investor Day. For further information, please contact Rachel Berkowitz at (212) 553-3638.",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              "(866) 831-6234"
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "New York Hilton Hotel",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "15",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "3",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "Michael D. Courtian",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Moody's Corp.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "MCO",
+          "ConfCallEventName": "Moody's Corp., Analyst/Investor Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "Live Toll-Free",
+          "KeyConferenceCallNumberType": "0",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-21T18:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T16%3A00%3A00',EventKey=22482)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T16%3A00%3A00',EventKey=22482)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Dividend Announcement",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-21T16:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-21T16:20:00",
+        "CompanyCalendarDateET": "2019-08-21T16:00:00",
+        "CompanyCalendarDateEndET": "2019-08-21T16:20:00",
+        "CompanyCalendarEvent": "Testing event 3",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22482,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-21T16:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T14%3A00%3A00',EventKey=22484)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T14%3A00%3A00',EventKey=22484)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Dividend Announcement",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-21T14:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-21T14:10:00",
+        "CompanyCalendarDateET": "2019-08-21T14:00:00",
+        "CompanyCalendarDateEndET": "2019-08-21T14:10:00",
+        "CompanyCalendarEvent": "",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22484,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "Raleigh, NC",
+          "CompanyMeetingKey": "103169",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "8/3/2006 5:00 AM HAT ",
+          "ConferenceCallDateUTC": "2006-08-03T09:00:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Raleigh Marriott Crabtree Valley",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "6",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "0",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Highwoods Properties Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "HIW",
+          "ConfCallEventName": "Highwoods Properties Inc., Annual Shareholder Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-21T14:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T05%3A00%3A00',EventKey=22486)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-21T05%3A00%3A00',EventKey=22486)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Shareholders Meeting",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-21T05:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-21T05:20:00",
+        "CompanyCalendarDateET": "2019-08-21T05:00:00",
+        "CompanyCalendarDateEndET": "2019-08-21T05:20:00",
+        "CompanyCalendarEvent": "Testing done",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22486,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "101432",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "STERLING",
+          "ConferenceCallDate": "6/5/2006 5:30 AM HAT ",
+          "ConferenceCallDateUTC": "2006-06-05T09:30:00",
+          "ConferenceCallDetails": "Sterling Financial Corp. and FirstBank NW Corp. will host a conference call to discuss its announcement to merge.",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              "(312) 470-7400"
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "1",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": 126743,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "1",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "1",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "Marie Hirsch",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Sterling Financial Corp.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "Sterling Financial Corp., Annual Shareholder Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "Live Toll",
+          "KeyConferenceCallNumberType": "1",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-21T05:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-20T17%3A00%3A00',EventKey=22483)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-20T17%3A00%3A00',EventKey=22483)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "This is a testing alert",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-08-20T17:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-20T17:20:00",
+        "CompanyCalendarDateET": "2019-08-20T17:00:00",
+        "CompanyCalendarDateEndET": "2019-08-20T17:20:00",
+        "CompanyCalendarEvent": "",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 22483,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "Salt Lake City, UT",
+          "CompanyMeetingKey": "103458",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "7/7/2006 5:00 AM HAT ",
+          "ConferenceCallDateUTC": "2006-07-07T09:00:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "Company Headquarters",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "8",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "0",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Security National Financial",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "SNFC.A",
+          "ConfCallEventName": "Security National Financial, Annual Shareholder Meeting",
+          "KeyMappingShapes": "e16e3ed5-b295-4e63-9251-222e3edf5b89",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-20T17:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-06T00%3A00%3A00',EventKey=85084)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-08-06T00%3A00%3A00',EventKey=85084)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Oppenheimer's 22nd Annual Technology, Internet & Communications Conference",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-08-06T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-08-07T00:00:00",
+        "CompanyCalendarDateET": "2019-08-06T00:00:00",
+        "CompanyCalendarDateEndET": "2019-08-07T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 85084,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Boston",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "Oppenheimer's 22nd Annual Technology, Internet & Communications Conference",
+          "ConferenceBegins": "8/6/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "8/7/2019",
+          "ConferenceKey": "85084",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://www.oppenheimer.com/events/2019/22nd-annual-technology,-internet-communications-conference.aspx",
+          "ConferenceVenue": "Four Seasons Hotel 200 Boylston St.",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "6167",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1612760256",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "Oppenheimer & Co.",
+          "State": "MA",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-08-06T00:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-24T02%3A30%3A00',EventKey=3608261)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-24T02%3A30%3A00',EventKey=3608261)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q2 Earnings Conference Call",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-07-24T02:30:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-07-24T08:30:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Conference Call",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 3608261,
+        "EventType": 1,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "7/24/2019 2:30 AM HAT ",
+          "ConferenceCallDateUTC": "2019-07-24T06:30:00",
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "4024242",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "https://edge.media-server.com/mmc/p/bfygn59n",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2019-06-30T00:00:00",
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "0",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Q2 Earnings Conference Call",
+          "KeyMappingShapes": "",
+          "ConferenceCallNumberType": "",
+          "KeyConferenceCallNumberType": "",
+          "KeyConferenceCalls": ""
+        },
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": "EPS ($) Q2",
+          "YearAgoActual": 0.81,
+          "ConsensusEstimate": 0.89,
+          "CurrentReported": 0.51,
+          "OverUnder": -0.38
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-07-24T02:30:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-24T01%3A00%3A00',EventKey=1525396)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-24T01%3A00%3A00',EventKey=1525396)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Q2 Earnings Release",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-07-24T01:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": null,
+        "CompanyCalendarDateET": "2019-07-24T07:00:00",
+        "CompanyCalendarDateEndET": null,
+        "CompanyCalendarEvent": "Earnings Release",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1525396,
+        "EventType": 2,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "",
+          "ConferenceBegins": "",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "",
+          "ConferenceKey": "",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "",
+          "ConferenceVenue": "",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": "2019-06-30T00:00:00",
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "4024242",
+          "Email": "",
+          "ExpectedEarningsRelease": "7/24/2019",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "12",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "",
+          "KeyConferenceType": "",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "0",
+          "KeyGaapDomainClass": "14",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": 4024242,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "21",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "0",
+          "MaskGAAPDomainClassCorrect": "",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "AT&T Inc.",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "T",
+          "ConfCallEventName": "AT&T Inc., Q2 Earnings Release",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EPSFFOData"
+          },
+          "EPSFFOHeader": "EPS ($) Q2",
+          "YearAgoActual": 0.81,
+          "ConsensusEstimate": 0.89,
+          "CurrentReported": 0.51,
+          "OverUnder": -0.38
+        },
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-07-24T01:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-15T14%3A00%3A00',EventKey=1073751691)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-15T14%3A00%3A00',EventKey=1073751691)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "Test_IM_Event 19.7 Release 02",
+        "CompanyCalendarApproximate": true,
+        "CompanyCalendarDate": "2019-07-15T14:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-07-15T14:30:00",
+        "CompanyCalendarDateET": "2019-07-15T14:00:00",
+        "CompanyCalendarDateEndET": "2019-07-15T14:30:00",
+        "CompanyCalendarEvent": "Test event",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 1073751691,
+        "EventType": 4,
+        "IsPastEvent": true,
+        "Detail": null,
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-07-15T14:00:00"
+      },
+      {
+        "__metadata": {
+          "id": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-11T00%3A00%3A00',EventKey=86966)",
+          "uri": "https://dmzirtest/IRWebAPI/V1/Events/CalendarEvents(EventDateTime=datetime'2019-07-11T00%3A00%3A00',EventKey=86966)",
+          "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.CalendarEvents"
+        },
+        "CompanyCalendarTitle": "SHAKEN/STIR Robocall Summit",
+        "CompanyCalendarApproximate": false,
+        "CompanyCalendarDate": "2019-07-11T00:00:00",
+        "CompanyCalendarYear": 2019,
+        "CompanyCalendarDateEnd": "2019-07-11T00:00:00",
+        "CompanyCalendarDateET": "2019-07-11T00:00:00",
+        "CompanyCalendarDateEndET": "2019-07-11T00:00:00",
+        "CompanyCalendarEvent": "Conference",
+        "TimeZoneLabel": "HAT",
+        "EventKey": 86966,
+        "EventType": 0,
+        "IsPastEvent": true,
+        "Detail": {
+          "__metadata": {
+            "type": "SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.EventDetail"
+          },
+          "City": "Washignton",
+          "CityStatePublished": "",
+          "CompanyMeetingKey": "",
+          "Conference": "SHAKEN/STIR Robocall Summit",
+          "ConferenceBegins": "7/11/2019",
+          "ConferenceCallAccessCode": "",
+          "ConferenceCallDate": "",
+          "ConferenceCallDateUTC": null,
+          "ConferenceCallDetails": "",
+          "ConferenceCallKey": "",
+          "ConferenceCallPhone": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallPhonePublished": {
+            "__metadata": {
+              "type": "Collection(Edm.String)"
+            },
+            "results": [
+              ""
+            ]
+          },
+          "ConferenceCallReplayAccessCode": "",
+          "ConferenceCallReplayPhone": "",
+          "ConferenceCallURL": "",
+          "ConferenceCallURLAccessCode": "",
+          "ConferenceEnds": "7/11/2019",
+          "ConferenceKey": "86966",
+          "ConferencePhoneForForeigners": "",
+          "ConferenceRegistration": "",
+          "ConferenceReplayForForeigners": "",
+          "ConferenceURL": "https://www.fcc.gov/SHAKENSTIRSummit",
+          "ConferenceVenue": "Commission Meeting Room, FCC Headquarters 445 12th St. SW",
+          "ConferenceWebcastAccessCode": "",
+          "ConferenceWebCastURL": "",
+          "DateEndedStandard": null,
+          "EarningsReleased": "",
+          "EarningsReleasesKey": "",
+          "Email": "",
+          "ExpectedEarningsRelease": "",
+          "ExpectedEarningsReleaseEnds": "",
+          "FiscalYearEnd": "",
+          "KeyCityAsReported": "",
+          "KeyConferenceCallSubject": "",
+          "KeyConferenceChannel": "0",
+          "KeyConferenceType": "Investor",
+          "KeyDeal": null,
+          "KeyDocKeyDocConferenceMaterial": "",
+          "KeyExpectedReleaseTime": "",
+          "KeyGaapDomainClass": "",
+          "KeyIndLeadDomainClass": "",
+          "KeyInstn": null,
+          "KeyRegDomainClass": "",
+          "KeyRegDomainClassEnergy": "",
+          "KeyShareholderMeetingReason": "",
+          "KeySpecialTaxStatus": "",
+          "MaskGAAPDomainClassCorrect": "1073758208",
+          "PersonName": "",
+          "PhonePublished": "",
+          "ReplayAccessCodeForForeigners": "",
+          "ShortName": "FCC",
+          "State": "",
+          "PersonTitle": "",
+          "TradingSymbol": "",
+          "ConfCallEventName": "",
+          "KeyMappingShapes": null,
+          "ConferenceCallNumberType": null,
+          "KeyConferenceCallNumberType": null,
+          "KeyConferenceCalls": null
+        },
+        "EPSFFO": null,
+        "Presenters": {
+          "__metadata": {
+            "type": "Collection(SNL.SNLWebX.IRWebAPI.Common.Models.CalendarEvents.ConferencePresenters)"
+          },
+          "results": []
+        },
+        "EventDateTime": "2019-07-11T00:00:00"
+      }
+    ]
+  }
+}
